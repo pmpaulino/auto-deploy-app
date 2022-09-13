@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  auto-deploy-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-13T06:48:51.774571584Z"
+    description: A Helm chart for Kubernetes
+    digest: 6fc091f0ac7234c4cb26b558a6de55f6744a28fa8c8bc42ff9c2327ea9f8cadc
+    name: auto-deploy-app
+    type: application
+    urls:
+    - https://github.com/pmpaulino/auto-deploy-app/releases/download/auto-deploy-app-0.1.1/auto-deploy-app-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-09-13T06:48:51.774602084Z"
